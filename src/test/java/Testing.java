@@ -10,6 +10,8 @@ public class Testing {
         System.out.println("seven");
         System.out.println("eight");
         System.out.println("Nine");
+        System.out.println("Ten");
+        System.out.println("Eleven");
 
     }
 
