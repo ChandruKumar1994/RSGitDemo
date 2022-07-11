@@ -12,7 +12,15 @@ public class Testing {
         System.out.println("Nine");
         System.out.println("Ten");
         System.out.println("Eleven");
+        System.out.println("Twelve");
+        System.out.println("Thirteen");
+        System.out.println("Fourteen");
+        name();
 
+    }
+
+    public static void name(){
+        System.out.println("Chandru Kumar");
     }
 
 
